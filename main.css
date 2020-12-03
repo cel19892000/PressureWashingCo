@@ -1,10 +1,12 @@
 h2 {
     background-color: #0299EE;
     color: #ffffff;
+    text-align: center;
 }
 h3 {
     background-color: #EE5209;
     color: #ffffff;
+    text-align:center;
 }
 .center {
     display: block;
