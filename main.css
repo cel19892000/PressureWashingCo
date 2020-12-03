@@ -30,7 +30,9 @@ h3 {
     padding: 10px 20px;
 }
 .BeforeAfterContainer {
-    position: relative;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
     width: 240px;
 }
 .overlay {
