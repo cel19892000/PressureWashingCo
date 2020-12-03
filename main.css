@@ -2,3 +2,9 @@ h2 {
     background-color: #0299EE;
     color: #ffffff;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
