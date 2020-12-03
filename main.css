@@ -2,6 +2,10 @@ h2 {
     background-color: #0299EE;
     color: #ffffff;
 }
+h3 {
+    background-color: #EE5209;
+    color: #ffffff;
+}
 .center {
     display: block;
     margin-left: auto;
