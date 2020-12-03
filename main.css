@@ -29,6 +29,11 @@ h3 {
     text-align: center;
     padding: 10px 20px;
 }
+.BeforeAfterSection {
+    position: relative;
+    border: 1px solid #ccc;
+    width: auto;
+}
 .BeforeAfterContainer {
     position: relative;
     margin: 5px;
