@@ -32,6 +32,7 @@ h3 {
 .BeforeAfterContainer {
     position: relative;
     width: 240px;
+    padding: 25px 50px;
 }
 .overlay {
     position: absolute;
