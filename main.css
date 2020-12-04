@@ -87,3 +87,6 @@ h3 {
     .button:hover {
         border: 2px solid #EE5209;
     }
+    .button:active {
+        border: 2px solid #ff0000;
+    }
