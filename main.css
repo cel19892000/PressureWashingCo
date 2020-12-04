@@ -103,6 +103,24 @@ body {
     background: #f1f1f1;
 }
 
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
 /* Header/Blog Title */
 .header {
     padding: 30px;
