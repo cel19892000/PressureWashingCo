@@ -164,7 +164,7 @@ body {
 
 .sideimg {
     max-width: 240px;
-    width:inherit;
+    width:auto;
 }
 
 /* Add a card effect for articles */
