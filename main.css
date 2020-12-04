@@ -22,10 +22,6 @@ h4 {
     margin-right: auto;
 }
 
-.greybackground {
-    background-color: darkslategrey;
-}
-
 .container {
     position: relative;
 }
@@ -111,7 +107,7 @@ body {
 .header {
     padding: 30px;
     text-align: center;
-    background: white;
+    background: darkslategrey;
 }
 
     .header h1 {
