@@ -162,6 +162,11 @@ body {
     padding: 20px;
 }
 
+.sideimg {
+    max-width: 240px;
+    width:inherit;
+}
+
 /* Add a card effect for articles */
 .card {
     background-color: white;
