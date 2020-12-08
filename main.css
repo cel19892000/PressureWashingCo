@@ -182,6 +182,7 @@ body {
     padding: 20px;
     margin-top: 20px;
     height: auto;
+    overflow: hidden;
 }
 .ServiceCard {
     width: 80%;
